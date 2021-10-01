@@ -1,15 +1,18 @@
+.grid{
+    display: inline-block;
+}
+
 .top-dark-grey{
     background-color:#2e2d2d;
-        height: 175px;
-        width: 1120px;
+    height: 175px;
     margin-top: 0px;
     margin-bottom: 0px;
         
 }
 .light-grey-left{
     background-color: rgb(148, 146, 146);
-        height: 800px;
-        width: 250px;
+    height: 800px;
+    width: 250px;
     margin-top: 0px;
     margin-bottom: 0px;
     display: inline-block;
